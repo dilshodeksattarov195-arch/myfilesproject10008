@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperparse",
+        "uuid": 29000,
+        "checksum": "re72m"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
